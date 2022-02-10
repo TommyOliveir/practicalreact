@@ -5,6 +5,9 @@ import ReactToastify from "./components/ReactToastify";
 import ModalComponent from "./components/ModalComponent";
 import ModalComponent2 from "./components/ModalComponent2";
 import TippyComponent from "./components/TippyComponent";
+import ReactCountUpComponent from "./components/ReactCountUpComponent";
+import IdleTimerContainer from "./components/IdleTimerContainer";
+
 
 
 function App() {
@@ -16,6 +19,9 @@ function App() {
       <ModalComponent/>
       <ModalComponent2/>
       <TippyComponent/>
+      <ReactCountUpComponent/>
+     <IdleTimerContainer/>
+     
     </div>
   );
 }

@@ -8,7 +8,10 @@ function TippyComponent() {
     <div>
       <h2>tippy</h2>
       <a href="https://atomiks.github.io/tippyjs/" target="_blank">
-        tippylink
+        tippylink Docs
+      </a><br></br>
+      <a href="https://youtu.be/8y4Dr9jJtF0?list=PLC3y8-rFHvwhAh1ypBvcZLDO6I7QTY5CM" target="_blank">
+        tippylink Video 
       </a>
       <div>
         <Tippy content="Hello Basic Tooltip">

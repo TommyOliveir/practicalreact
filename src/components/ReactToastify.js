@@ -8,7 +8,7 @@ function ReactToastify() {
    
   });
   return (
-    <div>
+    <div><h2>Toastify</h2>
       <a href="https://fkhadra.github.io/react-toastify/introduction" target="_blank">
         React Toastify
       </a>
