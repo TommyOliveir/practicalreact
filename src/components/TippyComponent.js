@@ -6,7 +6,11 @@ import 'tippy.js/themes/light.css';
 function TippyComponent() {
   return (
     <div>
+<<<<<<< HEAD
       <h2>tippy change</h2>
+=======
+      <h2>tippy</h2>
+>>>>>>> 677cc084bb349e078e2e156893b1f6119aad1dba
       <a href="https://atomiks.github.io/tippyjs/" target="_blank">
         tippylink Docs
       </a><br></br>
